@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at VanarXtech as a frontend developer. I am working on a poll application and my portfolio website on the side.<br>👯 I’m looking to collaborate on frontend open source ReactJS projects<br>🌱 I’m currently learning Motion.dev and Next.js<br>💬 Ask me about React, frontend development, and building interactive UIs<br>⚡ Fun fact: I love experimenting with animations and making websites feel alive
+🔭 I’m currently working at VanarXtech as a frontend developer. I am working on a poll application and my portfolio website on the side.<br>👯 I’m looking to collaborate on frontend open source ReactJS projects<br>🌱 I’m currently learning Motion.dev and Next.js<br>💬 Ask me about React, frontend development, and building interactive UIs<br>⚡ I love experimenting with animations and making websites feel alive
 
 
 ## 🌐 Socials:
